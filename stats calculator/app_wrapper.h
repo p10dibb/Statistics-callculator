@@ -20,13 +20,13 @@ public:
 	void calculate_4th();
 
 	void calculateSampleVarience();
-	
+
 	void calculateStandardDev();
 
 
 private:
-	
-	double sum; 
+
+	double sum;
 	double mean;
 	double meadian;
 	double upper4th;
@@ -34,7 +34,7 @@ private:
 	double spread;
 	double outlearVal;
 	double XoutlearVal;
-	
+
 	double Xi; //the sum of all values ^2
 	double SampleVarience;
 	double StandardDev;
