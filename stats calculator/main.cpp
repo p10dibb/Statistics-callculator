@@ -4,7 +4,7 @@
 
 int main() {
 
-	cout << 1 / 2 << endl;
+
 
 	app a;
 
